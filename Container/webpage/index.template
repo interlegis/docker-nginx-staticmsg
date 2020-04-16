@@ -1867,8 +1867,8 @@ div[vw] {
       
       
       
-      <h1><center>Hello World!</center></h1>
-      <center>Olá Mundo!</center>
+      <h1><center>${MAINMSG}</center></h1>
+      <center>${SECMSG}</center>
       
       
       <div id="portal-breadcrumbs">
